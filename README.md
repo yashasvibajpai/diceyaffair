@@ -1,4 +1,7 @@
 # Diceyaffair
+
+<B><u>NOW DEPLOYED ON</B></u> <a href="https://diceyaffair.netlify.com/">DiceyAffair</a> !
+
 <h3><em>A casual multiplayer game created using Javascript.</em></h3>
 
 Test your luck and choices to become a winner in this simple yet competitive game.
