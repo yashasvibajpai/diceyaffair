@@ -1,5 +1,7 @@
 # Diceyaffair
 
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+
 <B><u>NOW DEPLOYED ON</B></u> <a href="https://diceyaffair.netlify.com/">DiceyAffair</a> !
 
 <h3><em>A casual multiplayer game created using Javascript.</em></h3>
